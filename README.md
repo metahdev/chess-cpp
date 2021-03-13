@@ -1,2 +1,2 @@
-# chess-cpp
-A simple 'player VS player' chess program
+# Chess
+A simple 'player VS player' chess program (C++)
